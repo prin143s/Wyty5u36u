@@ -1,5 +1,4 @@
 pyrogram==2.0.106
+pytgcalls==0.0.15
 yt-dlp==2024.05.27
 tgcrypto
-git+https://github.com/pytgcalls/pytgcalls.git@2.0.0.dev2
-
